@@ -1,3 +1,0 @@
-/home/n3ki4/CLionProjects/cli-chat-application/build/release/CMakeFiles/cli_chat_application.dir
-/home/n3ki4/CLionProjects/cli-chat-application/build/release/CMakeFiles/edit_cache.dir
-/home/n3ki4/CLionProjects/cli-chat-application/build/release/CMakeFiles/rebuild_cache.dir

@@ -1,8 +1,0 @@
-/home/n3ki4/Downloads/clion-2023.3.4/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_MAKE_PROGRAM=/home/n3ki4/Downloads/clion-2023.3.4/bin/ninja/linux/x64/ninja "-DCMAKE_TOOLCHAIN_FILE=/home/n3ki4/.vcpkg-clion/vcpkg (1)/scripts/buildsystems/vcpkg.cmake" -G Ninja -S /home/n3ki4/CLionProjects/cli-chat-application -B /home/n3ki4/CLionProjects/cli-chat-application/build/release
-CMake Error at CMakeLists.txt:7:
-  Unexpected end of file.
-
-  Parse error.  Function missing opening "(".
-
-
--- Configuring incomplete, errors occurred!
